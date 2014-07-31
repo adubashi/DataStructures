@@ -1,0 +1,8 @@
+The result starts off at 0/1
+The product of 9/8 and 2/3 is 3/4
+The quotient of 9/8 and 2/3 is 27/16
+The sum of 9/8 and 2/3 is 43/24
+The difference of 9/8 and 2/3 is 11/24
+The two fractions are not equal.
+The product of 3/2 and 2/3 is 1/1
+Press any key to continue . . .
